@@ -1,4 +1,5 @@
 웹스크립트 01분만 컴퓨터공학과 김정우
+github 주소 : https://github.com/jwkim343/jwkim343.github.io/tree/main
 
 사용한 테마 주소 : https://startbootstrap.com/theme/freelancer#google_vignette
 
